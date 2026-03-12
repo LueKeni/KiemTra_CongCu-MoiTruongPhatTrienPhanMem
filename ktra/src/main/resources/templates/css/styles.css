@@ -51,6 +51,12 @@ p a:hover{ color:#868e36; text-decoration:none;}
 
 #menuPan ul.menu li.line{width:9px; background:url(../images/bullet_m.gif) 0 4px no-repeat}
 
+/* content */
+
+#content{width:685px; position:relative; background:#FFF}
+#leftPan{width:179px; float:left; margin:26px 39px 0 19px; display:inline}
+#welcome h2{height:40px; position:relative; background:url(../images/h_welcome.gif) 0 0 no-repeat; margin-bottom:8px}
+
 /* HEADER */
 
 #header{width:685px; height:238px; background: url(../images/b_header.jpg) 0 0 no-repeat; position:relative;}
