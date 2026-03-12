@@ -51,5 +51,15 @@ p a:hover{ color:#868e36; text-decoration:none;}
 
 #menuPan ul.menu li.line{width:9px; background:url(../images/bullet_m.gif) 0 4px no-repeat}
 
+/* HEADER */
 
+#header{width:685px; height:238px; background: url(../images/b_header.jpg) 0 0 no-repeat; position:relative;}
 
+#header img#slogan2{position:absolute; top:76px; left:19px}
+
+/* footer */
+
+#footer{height:49px; clear:both; width:775px; background:#e8f09c; margin: 0 auto}
+#footer p{padding: 10px 0 0 0; font:10px/16px Tahoma, sans-serif; font-weight:normal; text-align:center; color:#000;}
+#footer p a{font:10px/16px Tahoma, sans-serif; font-weight:normal; color:#000; text-decoration:none; padding: 0 3px }
+#footer p a:hover{text-decoration:underline; color:#000}
